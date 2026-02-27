@@ -18,7 +18,7 @@ Personal console application to track and manage expenses built with Python.
 
 ## 💻 Screenshots
 
-![Demo](demo.png)
+![Demo](demo.png.jpeg)
 
 ## ▶️ How to Run
 1. Make sure you have Python installed
