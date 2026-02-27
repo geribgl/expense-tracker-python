@@ -1,22 +1,27 @@
-# 💸 Control de Gastos Personales – Python
+# 💸 Expense Tracker – Python
 
-Aplicación de consola desarrollada en Python para registrar y organizar gastos personales.
+Personal console application to track and manage expenses built with Python.
 
-## Funcionalidades
-- Agregar gastos con categoría y descripción
-- Calcular totales por categoría
-- Guardar información en archivo .txt
-- Menú interactivo en terminal
+## 🛠️ Features
+- Add expenses with category and description
+- Categorize spending
+- Show total expenses
+- Display totals by category
+- Save expense data to a file
 
-## Tecnologías usadas
+## 🧠 Technologies Used
 - Python
-- Listas y diccionarios
-- Bucles (while, for)
-- Manejo de archivos
+- Lists
+- Dictionaries
+- Loops
+- File handling
 
-## Cómo ejecutar
+## ▶️ How to Run
+1. Make sure you have Python installed
+2. Open terminal
+3. Run:
+```bash
 python control_gastos_personales.py
-
 ## Autora
 Geri Guerrero
 Estudiante de Ingeniería de Sistemas
